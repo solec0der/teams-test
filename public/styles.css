@@ -1,0 +1,20 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  display: grid;
+  place-items: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: #FAFAFA;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+div.content {
+  font-weight: 100;
+  font-size: 8rem;
+}
+
